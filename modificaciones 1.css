@@ -1,0 +1,57 @@
+<head>
+ <meta http-equiv=content-type" ::content="text/HTML;charset="UTF-8">
+ <title>mi pagina</title>
+ <style>
+ *{
+  margin:0;
+  padding:0;
+  }
+ a:link, a:avised, a:hover, a:active {
+  color:#0f0
+  font-size:16px;
+ }
+ body {
+  background-image: url(https://static.nationalgeographicla.com/files/styles/image_3200/public/nationalgeographic1574755.jpg?w=1600);
+  background-repeat: no-repeat;
+  background-position: center center;
+  height: 1800px;
+  background-attachment: fixed;
+  background-size: cover;
+  Font-family:verdana;
+ }
+ h2 {
+  color:rgb(204, 0, 17)
+  font-size:24px;
+ }
+ p {
+  font-size:16px;
+ }
+ ul {
+  list-style-type:none;
+ }
+ #cabecera {
+  color:#ff9;
+  background-color:#6e0606;
+  padding:10px;
+ }
+ #contenedor {
+  margin:0 auto;
+  width:800px;
+ }
+ #contenido {
+  background-color:white;
+  float:left;
+  height:500px;
+  padding:10px;
+  width:560px;
+ }
+ #menu {
+  background-color: rgb(10, 139, 10);
+  float:left;
+  height:480px;
+  padding:20px;
+ width:180px;
+ }
+ 
+ </style>
+</head>
